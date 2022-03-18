@@ -1,0 +1,1 @@
+- Q2 Write a function Join that take in 2 string parameters called str1 and str2 and an integer parameter p. If p==0, the function returns a string with str1 followed by str2 otherwise the function returns with str2 followed by str1. For examples, Join ("ABC", "DEF", 0) returns "ABCDEF" and Join ("ABC", "DEF", 1) returns "DEFABC".
