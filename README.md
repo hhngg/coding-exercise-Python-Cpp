@@ -16,3 +16,10 @@ Given an array of integers nums and an integer target, return indices of the two
 - Q5 
 Write a function CountRangeChars that take in a string parameter str, and 2
 integer parameters start and end and a character parameter ch. The function counts the number of characters that are the same as ch that fall in the range of start and end and return it. For example, CountRangeChars ("AAABBBCCC", 2, 7, 'C') returns 2 as there are 2 'C' characters between positions 2 and 7.
+
+- Q6
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.  You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+- Q7
+ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. 
+ The overall run time complexity should be O(log (m+n)).
