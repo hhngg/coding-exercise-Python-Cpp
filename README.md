@@ -24,3 +24,6 @@ You are given two non-empty linked lists representing two non-negative integers.
 - Q7
  Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays. 
  The overall run time complexity should be O(log (m+n)).
+
+- Q8
+Provide a program to calculate f(x) = 1x2x3x...x(n-1)x(n) using resursive function
