@@ -1,0 +1,1 @@
+- Given an array of 100 unsorted number A[1] to A[100]. provide a programme ro sort the record in ascending order.
