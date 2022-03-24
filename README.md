@@ -30,3 +30,6 @@ Provide a program to calculate f(x) = 1x2x3x...x(n-1)x(n) using resursive functi
 
 - Q9
 Given an array of 100 unsorted number A[1] to A[100]. provide a programme ro sort the record in ascending order.
+
+- Q10 
+Given a set of number "123". Show all combination.
