@@ -29,4 +29,4 @@ You are given two non-empty linked lists representing two non-negative integers.
 Provide a program to calculate f(x) = 1x2x3x...x(n-1)x(n) using resursive function
 
 - Q9
-Griven an array of 100 unsorted number A[1] to A[100]. provide a programme ro sort the record in ascending order.
+Given an array of 100 unsorted number A[1] to A[100]. provide a programme ro sort the record in ascending order.
