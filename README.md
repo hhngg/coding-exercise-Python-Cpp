@@ -33,3 +33,6 @@ Given an array of 100 unsorted number A[1] to A[100]. provide a programme ro sor
 
 - Q10 
 Given a set of number "123". Show all combination.
+
+-Q11
+Swap X and Y value.
