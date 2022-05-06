@@ -34,5 +34,5 @@ Given an array of 100 unsorted number A[1] to A[100]. provide a programme ro sor
 - 0010 
 Given a set of number "123". Show all combination.
 
--0011
+- 0011
 Swap X and Y value.
