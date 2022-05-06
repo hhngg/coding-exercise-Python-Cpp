@@ -2,7 +2,7 @@
 written in C++ and Python
 
 - 0001. 
-- Write a recursive function called AddPos that take in an array of integers intarr and an integer parameter size that holds the number of values in intarr. The function sums up all positive values in intarr and return it. For example AddPos ({-1, 1, -1, 1, -1}, 5) returns 2 (1+1).
+Write a recursive function called AddPos that take in an array of integers intarr and an integer parameter size that holds the number of values in intarr. The function sums up all positive values in intarr and return it. For example AddPos ({-1, 1, -1, 1, -1}, 5) returns 2 (1+1).
 
 - 0002
 Write a function Join that take in 2 string parameters called str1 and str2 and an integer parameter p. If p==0, the function returns a string with str1 followed by str2 otherwise the function returns with str2 followed by str1. For examples, 
