@@ -7,11 +7,9 @@ class solution(object):
         else:
             return print("wrong number, only type 0 or 1")
 
+solution().join("ABC", "CDE", 0)
 solution().join("ABC", "CDE", 1)
-
-join("ABC", "CDE", 0)
-join("ABC", "CDE", 1)
-join("ABC", "CDE", 2)
+solution().join("ABC", "CDE", 2)
 
 """
 result:
